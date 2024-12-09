@@ -1,3 +1,5 @@
+//This code works on small datasets
+
 #include <iostream>
 #include <fstream>
 #include <string>
